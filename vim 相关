@@ -1,5 +1,6 @@
-vim filename//进入文件
+vim filename//进入文件或创建一个文件
 i（insert）//插入，即编辑状态
 Esc//推出编辑状态
 ：wq！//保存文件并退出
 ：q！//不保存文件推出
+shift+G//到文件底部
